@@ -1,0 +1,17 @@
+[versions]
+# Dependencies
+paper = "1.21-R0.1-SNAPSHOT"
+configbuilder = "2.0.1"
+
+# Plugins
+paperweight-userdev = "1.7.1"
+run-paper = "2.2.4"
+shadow = "8.1.7"
+
+[libraries]
+configbuilder = { group = "de.maxhenkel.configbuilder", name = "configbuilder", version.ref = "configbuilder" }
+
+[plugins]
+paperweight-userdev = { id = "io.papermc.paperweight.userdev", version.ref = "paperweight-userdev" }
+run-paper = { id = "xyz.jpenilla.run-paper", version.ref = "run-paper" }
+shadow = { id = "io.github.goooler.shadow", version.ref = "shadow" }
