@@ -1,4 +1,4 @@
-package de.maxhenkel.status.playerstate;
+package de.nightium.status.playerstate;
 
 public enum Availability {
 

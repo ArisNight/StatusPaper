@@ -1,4 +1,4 @@
-package de.maxhenkel.status.config;
+package de.nightium.status.config;
 
 import de.maxhenkel.configbuilder.ConfigBuilder;
 import de.maxhenkel.configbuilder.entry.ConfigEntry;

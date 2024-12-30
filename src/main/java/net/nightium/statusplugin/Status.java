@@ -1,9 +1,9 @@
-package me.milesglitch.statusplugin;
+package net.nightium.statusplugin;
 
 import de.maxhenkel.configbuilder.ConfigBuilder;
-import de.maxhenkel.status.config.ServerConfig;
+import de.nightium.status.config.ServerConfig;
 import io.netty.buffer.Unpooled;
-import de.maxhenkel.status.playerstate.PlayerState;
+import de.nightium.status.playerstate.PlayerState;
 import net.minecraft.network.FriendlyByteBuf;
 import net.minecraft.network.chat.Component;
 import net.minecraft.network.protocol.game.ClientboundSetSubtitleTextPacket;
